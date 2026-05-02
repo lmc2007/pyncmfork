@@ -1,6 +1,16 @@
+
+原项目作者仓库已删除，本仓库为备份存档。
+
+## 免责声明
+1. 本仓库仅对原有开源源码进行**备份留存**，不拥有项目原创版权；
+2. 不会新增功能、不接受 Issue、不提供任何技术支持与维护；
+3. 源码仅供个人学习、技术研究用途，禁止用于商业盈利、违规爬虫及违反平台规则的场景；
+4. 使用者自行承担使用本源码带来的一切法律风险与使用后果；
+5. 若原作者有版权诉求，将随时下架本仓库。
+
 # PyNCM
 
-[![PyPI version](https://badge.fury.io/py/pyncm.svg)](https://badge.fury.io/py/pyncm) [![Windows Build](https://github.com/mos9527/pyncm/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/mos9527/pyncm/blob/master/.github/workflows/build-and-publish.yml) [![Releases](https://img.shields.io/github/downloads/mos9527/pyncm/total.svg)](https://GitHub.com/mos9527/pyncm/releases/) 
+[![PyPI version](https://badge.fury.io/py/pyncm.svg)](https://badge.fury.io/py/pyncm) [![Windows Build](https://github.com/mos9527/pyncm/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/mos9527/pyncm/blob/master/.github/workflows/build-and-publish.yml) [![发布](https://img.shields.io/github/downloads/mos9527/pyncm/total.svg)](https://GitHub.com/mos9527/pyncm/releases/) 
 
 
 第三方网易云音乐 Python API 及个人音乐库离线转储工具
@@ -20,7 +30,7 @@
 - `tqdm`    : 显示实时下载进度
 - `coloredlogs` : 彩色日志输出
 
-**Windows 用户**: 在 [Releases](https://github.com/mos9527/pyncm/releases) 可下载已打包 `.exe` 版本 (x86)
+**Windows 用户**: 在 [发布](https://github.com/mos9527/pyncm/releases) 可下载已打包 `.exe` 版本 (x86)
 # 命令行使用
     positional arguments:
     链接                    网易云音乐分享链接
